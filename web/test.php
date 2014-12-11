@@ -1,4 +1,4 @@
 <?php
 
-	echo "Test git branch";
+	echo "Test git branch - updated";
 ?>
