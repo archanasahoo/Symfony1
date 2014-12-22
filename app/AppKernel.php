@@ -1,5 +1,5 @@
 <?php
-// comment2
+// comment1
 use Symfony\Component\HttpKernel\Kernel;
 use Symfony\Component\Config\Loader\LoaderInterface;
 
